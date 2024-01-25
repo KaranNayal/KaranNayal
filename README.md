@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaranNayal
 - 👀 I’m interested in playing cricket, surfing the internet
-- 🌱 I’m currently learning about cyber security
+- 🌱 I’m currently learning about java fsd,cyber security.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
